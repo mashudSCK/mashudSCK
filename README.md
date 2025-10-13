@@ -29,7 +29,7 @@
 
 ### 🌍 Connect with Me
 📧 **Email:** [mashudkhalid.work@gmail.com](mailto:mashudkhalid.work@gmail.com)  
-📘 **Facebook:** [Mashud Khalid](https://facebook.com/MashudKhalid)  
+📘 **Facebook:** [Mashud Khalid](https://facebook.com/mashud.nvm)  
 💼 **LinkedIn:** [Mashud Khalid](https://www.linkedin.com/in/mashud-khalid)
 
 ---
