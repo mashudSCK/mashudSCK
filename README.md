@@ -1,58 +1,94 @@
-# 👋 Salam! I'm Mashud Shamsher Khalid
+<div align="center">
 
-**IT Student · Web Developer · Aspiring Game Developer**
+# Salam, I'm Mashud 👋
 
-I'm based in the Philippines, learning by building practical apps and experimenting with interactive experiences. My interests span web development, thoughtful UI/UX, and indie game development with Godot.
+### Web developer by practice. Game developer in the making.
 
-I like projects that solve everyday problems, make technology more useful, and leave room for a little personality.
+IT student in the Philippines, turning everyday observations into things people can use.
 
-### 🚀 Selected Projects
+[![Email](https://img.shields.io/badge/Let's_talk-0F766E?style=flat-square&logo=gmail&logoColor=white)](mailto:mashudkhalid.work@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0F766E?style=flat-square)](https://www.linkedin.com/in/mashud-khalid)
+[![Projects](https://img.shields.io/badge/Explore_my_projects-0F766E?style=flat-square&logo=github&logoColor=white)](https://github.com/mashudSCK?tab=repositories)
 
-| Project | What I'm building |
-| --- | --- |
-| [DeAlghorithm](https://github.com/mashudSCK/DeAlghorithm) | An Android app in development to help people notice repetitive app use and choose meaningful alternatives. Built with Kotlin and Jetpack Compose. |
-| [Sulyap](https://github.com/mashudSCK/sulyap) | A real-time chat project for brief, anonymous conversations, built with Node.js, Express, Socket.IO, and JavaScript. |
-| [Personal Portfolio](https://github.com/mashudSCK/PersonalPortfolio) | A responsive portfolio built with HTML, CSS, and JavaScript, with theme switching and accessible interactions. |
-| [PSITS Clearance Management System](https://github.com/mashudSCK/PSITS-Clearance-Management-System) | A clearance management system project. |
-| [Weather Tracker Dashboard](https://github.com/mashudSCK/weather-tracker-dashboard) | A weather dashboard project. |
+**Useful ideas. Expressive interfaces. Room to explore.**
 
-### 🌱 What I'm Learning
-
-- **Web development:** building responsive interfaces and connecting frontend experiences with backend services.
-- **Android development:** Kotlin and Jetpack Compose through DeAlghorithm.
-- **Game development:** Godot, game design, and simulation systems.
-- **UI/UX:** clear navigation, accessibility, and expressive interactions.
-
-### 🛠️ Technologies & Tools
-
-**Web**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**Also exploring and working with**
-
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-### 🤝 Connect with Me
-
-[Email](mailto:mashudkhalid.work@gmail.com) · [LinkedIn](https://www.linkedin.com/in/mashud-khalid) · [Facebook](https://facebook.com/mashud.nvm)
-
-I'm happy to connect with fellow learners and builders, exchange feedback, and collaborate on useful projects.
+</div>
 
 ---
 
-> “Testing leads to failure, and failure leads to understanding.”
-> — Burt Rutan
+### A little about the person behind the code
 
-Thanks for stopping by. Take a look around my [repositories](https://github.com/mashudSCK?tab=repositories)!
+I'm **Mashud Shamsher Khalid**. I learn by building, asking questions, and working through the parts I don't understand yet.
+
+My interests sit somewhere between practical software and playful experiences: a tool that helps someone reclaim their attention, a place for a fleeting conversation, or a game that makes exploration feel rewarding.
+
+I care about interfaces that are easy to use and have a personality of their own. Clear navigation, thoughtful details, and a little playfulness go a long way.
+
+Away from the keyboard, you'll find me riding my MTB—and occasionally figuring out how to fix it.
+
+### Things I'm putting into the world
+
+| Project | The idea behind it | Built with |
+| :--- | :--- | :--- |
+| **[DeAlghorithm](https://github.com/mashudSCK/DeAlghorithm)** | Help people step out of repetitive app use and make room for more intentional choices. **MVP in development.** | Kotlin · Jetpack Compose |
+| **[Sulyap](https://github.com/mashudSCK/sulyap)** | A brief conversation with someone new. A real-time chat project built around fleeting, anonymous encounters. | Node.js · Express · Socket.IO |
+| **[Personal Portfolio](https://github.com/mashudSCK/PersonalPortfolio)** | A home for my work, with thoughtful interactions, accessible navigation, and light and dark themes. | HTML · CSS · JavaScript |
+
+<details>
+<summary><strong>More of my work ↗</strong></summary>
+
+- [PSITS Clearance Management System](https://github.com/mashudSCK/PSITS-Clearance-Management-System)
+- [Weather Tracker Dashboard](https://github.com/mashudSCK/weather-tracker-dashboard)
+- [Expense Tracker](https://github.com/mashudSCK/expense-tracker)
+- [Browse all repositories](https://github.com/mashudSCK?tab=repositories)
+
+</details>
+
+### Currently stretching my skills
+
+- **Web development** — connecting responsive interfaces with useful backend services.
+- **Android development** — learning Kotlin and Jetpack Compose through DeAlghorithm.
+- **Game development** — exploring Godot, simulation systems, and the design of rewarding exploration.
+- **UI/UX** — finding the balance between simplicity, accessibility, and expressive details.
+
+### My toolkit
+
+These are technologies I've worked with or am actively learning through projects.
+
+**Web & data**
+
+![HTML5](https://img.shields.io/badge/HTML5-1E293B?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-1E293B?style=flat-square&logo=css&logoColor=66B3FF)
+![JavaScript](https://img.shields.io/badge/JavaScript-1E293B?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Node.js](https://img.shields.io/badge/Node.js-1E293B?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
+![PHP](https://img.shields.io/badge/PHP-1E293B?style=flat-square&logo=php&logoColor=ABAEEA)
+![MySQL](https://img.shields.io/badge/MySQL-1E293B?style=flat-square&logo=mysql&logoColor=66B3FF)
+
+**Mobile, games & tools**
+
+![Kotlin](https://img.shields.io/badge/Kotlin-1E293B?style=flat-square&logo=kotlin&logoColor=B88AFF)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-1E293B?style=flat-square&logo=jetpackcompose&logoColor=6DDC91)
+![Godot](https://img.shields.io/badge/Godot-1E293B?style=flat-square&logo=godotengine&logoColor=78B5E3)
+![Figma](https://img.shields.io/badge/Figma-1E293B?style=flat-square&logo=figma&logoColor=F24E1E)
+![Git](https://img.shields.io/badge/Git-1E293B?style=flat-square&logo=git&logoColor=F05032)
+
+<details>
+<summary>Other languages I've worked with</summary>
+
+Python · C++
+
+</details>
+
+### Let's build something useful
+
+I'm interested in collaborating on practical apps, thoughtful web experiences, and indie game experiments. I welcome honest feedback and conversations with people who enjoy learning as they build.
+
+**[Email](mailto:mashudkhalid.work@gmail.com)** · **[LinkedIn](https://www.linkedin.com/in/mashud-khalid)** · **[Facebook](https://facebook.com/mashud.nvm)**
+
+---
+
+<div align="center">
+
+*Still learning. Still asking questions. Still building.*
+
+</div>
